@@ -4,6 +4,7 @@ TFM - Inteligencia Artificial para la Observación de la Tierra: Comparación de
 
 Create a conda env
 
+"""
 conda create -n fwc_env python=3.10
 
 conda activate fwc_env
@@ -17,3 +18,8 @@ pip install scikit-learn
 pip install shape lime
 
 pip install ipykernel
+"""
+
+
+
+

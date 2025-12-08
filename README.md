@@ -16,9 +16,13 @@ pip install matplotlib seaborn geopandas pyarrow scikit-image
 
 pip install scikit-learn
 
+pip install xgboost
+
 pip install shape lime
 
 pip install ipykernel
+
+
 ```
 
 Notebooks

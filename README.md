@@ -16,7 +16,7 @@ pip install matplotlib seaborn geopandas pyarrow scikit-image
 
 pip install scikit-learn
 
-pip install xgboost
+conda install conda-forge xgboost
 
 pip install shape lime
 

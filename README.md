@@ -12,6 +12,8 @@ conda activate fwc_env
 
 pip install torch torchvision numpy pandas pillow
 
+pip install tensorflow
+
 pip install matplotlib seaborn geopandas pyarrow scikit-image
 
 pip install scikit-learn
